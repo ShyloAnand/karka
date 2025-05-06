@@ -22,6 +22,6 @@ CREATE TABLE books(
     select * from books;
     select title,author from books;
     update books set author='f.s.fitzgerald' where bookid=1;
-	delete from books where bookid='2';
+    delete from books where bookid='2';
         
     
