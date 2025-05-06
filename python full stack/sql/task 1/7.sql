@@ -8,4 +8,4 @@ CREATE TABLE employees(
     empsalary int
     );
     select * from employees;
-    alter table employees add department varchar(100);
+    
