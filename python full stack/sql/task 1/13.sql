@@ -20,6 +20,6 @@ CREATE TABLE books(
 	insert into books values('9','the great l','f.scott ','2015');
 	insert into books values('10','the great l','f.scott w','2025');
     select * from books;
-    select title,author from books;
+    
         
     
