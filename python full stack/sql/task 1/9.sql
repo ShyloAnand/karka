@@ -9,3 +9,4 @@ CREATE TABLE employees(
     );
     select * from employees;
     alter table employees add department varchar(100);
+    drop table employees;
